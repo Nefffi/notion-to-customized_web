@@ -6,7 +6,7 @@ import Post from '@components/PostCard'
 import TagsMenu from './components/Tags'
 import Profile from './components/Profile'
 import Chennel from './components/Chennel'
-import Products from './components/Product'
+// import Products from './components/Product'
 
 import CONFIG from 'morethan-log.config'
 
