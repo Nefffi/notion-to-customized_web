@@ -4,7 +4,7 @@ const CONFIG = {
     name: '👋🏻 Ciao, I’m Nefi',
     image: '/profile.png',
     discription: 'Product Designer',
-    linkedin: 'Nefi',
+    linkedin: 'Nefi Wong',
     email: 'neffepito@gmail.com',
     github: 'neffepito',
     instagram: 'neffepito',
@@ -17,7 +17,7 @@ const CONFIG = {
   ],
   // blog setting
   blog: {
-    title: 'morethan-log',
+    title: 'Nefi',
     description: 'welcome to morethan-log!',
   },
 
