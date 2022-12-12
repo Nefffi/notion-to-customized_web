@@ -1,13 +1,13 @@
 const CONFIG = {
   // profile setting
   profile: {
-    name: 'morethan-log',
+    name: '👋🏻 Ciao, I’m Nefi',
     image: '/profile.png',
-    discription: 'frontend developer',
-    linkedin: 'morethanmin',
-    email: 'morethanmin.dev@gmail.com',
-    github: 'morethanmin',
-    instagram: 'more_dev_min',
+    discription: 'Product Designer',
+    linkedin: 'Nefi',
+    email: 'neffepito@gmail.com',
+    github: 'neffepito',
+    instagram: 'neffepito',
   },
   projects: [
     {
